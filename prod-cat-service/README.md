@@ -17,4 +17,4 @@ Provides APIs for product listing, creation, updates, and advanced search functi
 
 ### 🔗 Source Code
 
-[prod-cat-service-main](https://github.com/Aayush20/prod-cat-service-main)
+[prod-cat-service-main](https://github.com/Aayush20/prod-cat-service)
