@@ -16,4 +16,4 @@ Handles user authentication, authorization, and role-based access using JWT toke
 
 ### 🔗 Source Code
 
-[auth-service-main](https://github.com/Aayush20/auth-service-main)
+[auth-service-main](https://github.com/Aayush20/auth-service)
