@@ -15,4 +15,4 @@ Handles payment request validation and payment status updates.
 
 ### 🔗 Source Code
 
-[payment-service-main](https://github.com/Aayush20/payment-service-main)
+[payment-service-main](https://github.com/Aayush20/payment-service)
