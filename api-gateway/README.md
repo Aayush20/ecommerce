@@ -15,4 +15,4 @@ Provides a unified entry point to all microservices with route filtering and sec
 
 ### 🔗 Source Code
 
-[api-gateway-main](https://github.com/Aayush20/api-gateway-main)
+[api-gateway-main](https://github.com/Aayush20/api-gateway)
