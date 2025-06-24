@@ -16,4 +16,4 @@ Manages order creation, status updates, and communication with payment & product
 
 ### 🔗 Source Code
 
-[order-service-main](https://github.com/Aayush20/order-service-main)
+[order-service-main](https://github.com/Aayush20/order-service)
