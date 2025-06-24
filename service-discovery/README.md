@@ -14,4 +14,4 @@ Eureka-based registry for dynamic service registration and discovery.
 
 ### 🔗 Source Code
 
-[service-discovery-main](https://github.com/Aayush20/service-discovery-main)
+[service-discovery-main](https://github.com/Aayush20/service-discovery)
